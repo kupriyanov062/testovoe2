@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39e3f89f-d1e2-4639-93c6-cf021a62c2c0" name="Default Changelist" comment="" />
+    <list default="true" id="39e3f89f-d1e2-4639-93c6-cf021a62c2c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/UserController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Interfaces/CheckData.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Interfaces/SaveData.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/user_form.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -128,9 +136,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\testovoe\resources\views" />
+      <recent name="C:\OpenServer\domains\testovoe\app\Http\Controllers" />
+      <recent name="C:\OpenServer\domains\testovoe\app\Interfaces" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -146,11 +161,47 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605692528167</updated>
-      <workItem from="1605692529214" duration="619000" />
+      <workItem from="1605692529214" duration="3101000" />
+      <workItem from="1605701355795" duration="229000" />
+      <workItem from="1605701600157" duration="148000" />
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1605693199804</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605693199804</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="417" y="7" key="CommitChangelistDialog2" timestamp="1605693197757">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="417" y="7" key="CommitChangelistDialog2/0.0.1600.860/1600.0.1600.900@0.0.1600.860" timestamp="1605693197757" />
+    <state x="576" y="153" key="NewPhpClassDialog" timestamp="1605700677191">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="576" y="153" key="NewPhpClassDialog/0.0.1600.860/1600.0.1600.900@0.0.1600.860" timestamp="1605700677191" />
+    <state x="634" y="353" key="NewPhpFileDialog" timestamp="1605700784972">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="634" y="353" key="NewPhpFileDialog/0.0.1600.860/1600.0.1600.900@0.0.1600.860" timestamp="1605700784972" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1605693244661">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860/1600.0.1600.900@0.0.1600.860" timestamp="1605693244661" />
+    <state x="601" y="336" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605693228092">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="601" y="336" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1600.860/1600.0.1600.900@0.0.1600.860" timestamp="1605693228092" />
   </component>
 </project>
