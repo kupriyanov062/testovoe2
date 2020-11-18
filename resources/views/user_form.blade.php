@@ -67,7 +67,7 @@
         @csrf
         <div>
             <div>
-                <input type="text" name="name" placeholder="Ваше имя">
+                <input type="text" name="login" placeholder="Ваше имя">
                 <span>Ваше имя</span>
             </div>
             <div>
@@ -78,7 +78,7 @@
                 <input type="password" name="password" placeholder="Введите ваш пароль">
                 <span>Ваш пароль</span>
             </div>
-            <button type="submit" class="button">Сохранить изменения</button>
+            <button type="submit" class="button">Отправить</button>
         </div>
     </form>
     </body>

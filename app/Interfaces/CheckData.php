@@ -4,5 +4,5 @@ use http\Env\Request;
 
 
 Interface CheckData{
-public static function check(Request $request);
+public  function check($user, $email, $password);
 }
